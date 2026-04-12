@@ -11,7 +11,7 @@ polars>=0.20
 pyspark>=3.5
 sqlalchemy>=2.0
 duckdb>=0.10
-apache-airflow==2.8.1; python_version<"3.12"
+apache-airflow>=2.9.0; python_version<"3.12"
 great-expectations>=0.18
 
 # Phase 3 - Cloud
